@@ -1,3 +1,2 @@
 # SIH_Project
-In this project, we have developed a project for the students who are writing the competitive exams.They can just scan the QR code of our book and can easily eat the answer.
-This is an app which was developed by using android
+In this project, we have developed a project for the students who are writing the competitive exams.They can just scan the QR code of our book and can easily get the overall video for that particular solution.If they are not able to understand that video which has been provided to them,then they can be able to click on not understood button which will then directly navigate to the second video in which we have a better understanding video.If they click on the understand button it will be navigating to the mcq type of similar questions for the better understanding.In this app,they have been provided with the notes options for each and every indivuduals which will be helping and benefitting the students
