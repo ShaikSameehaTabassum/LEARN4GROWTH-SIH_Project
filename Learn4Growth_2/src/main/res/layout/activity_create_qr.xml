@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CreateQr">
+
+
+    <EditText
+        android:layout_margin="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Problem Number"
+        android:id="@+id/pn"/>
+
+
+        <EditText
+            android:layout_margin="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:hint="Enter Problem"
+            android:maxLines="50"
+            android:id="@+id/pb"/>
+
+    <EditText
+        android:layout_margin="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:hint="Enter Solution"
+        android:maxLines="100"
+        android:id="@+id/sl"/>
+
+    <EditText
+        android:layout_margin="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Url"
+        android:id="@+id/url"/>
+
+    <Button
+        android:onClick="data"
+        android:textAllCaps="false"
+        android:layout_width="230dp"
+        android:layout_height="50dp"
+        android:text="Add Data"
+        android:textSize="11sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btnadd"
+        android:backgroundTint="@color/appcolor"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.smartlearn">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/education"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/preferences"
+        android:roundIcon="@drawable/education"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+
+        <activity android:name=".ObjectiveTesting" />
+        <activity android:name=".AddQuestions" />
+        <activity android:name=".MocTest" />
+        <activity android:name=".ViewFeedback" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".PlayVideo" />
+        <activity android:name=".EditProblem" />
+        <activity android:name=".Player" />
+        <activity android:name=".Test" />
+        <activity android:name=".ScanQr" />
+        <activity android:name=".ViewProblems" />
+        <activity
+            android:name=".CreateQr"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Splash"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Signup" />
+        <activity android:name=".Login" />
+        <activity android:name=".AdminHome" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".NoteMakingActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PlayVideo">
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_margin="4dp"
+        android:id="@+id/youtube"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:showFullScreenButton="false"
+        app:autoPlay="false"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:layout_margin="4dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:onClick="under"
+            android:layout_width="230dp"
+            android:layout_height="50dp"
+            android:text="Understand"
+            android:textSize="11sp"
+            android:textAllCaps="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:textColor="#ffffff"
+            android:id="@+id/un"
+            android:backgroundTint="@color/appcolor"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"/>
+
+        <Button
+            android:onClick="wsc"
+            android:layout_width="230dp"
+            android:layout_height="50dp"
+            android:text="Want Some clarity"
+            android:textSize="11sp"
+            android:textAllCaps="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:textColor="#ffffff"
+            android:id="@+id/wsc"
+            android:backgroundTint="@color/appcolor"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"/>
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="306dp"
+        android:layout_height="368dp"
+        android:layout_gravity="center"
+        android:src="@drawable/videodemo" />
+
+
+</LinearLayout>

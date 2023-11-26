@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScanQr">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="215dp"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Scan Qr Code"
+            android:textSize="43sp" />
+
+        <Button
+            android:id="@+id/btnqr"
+            android:layout_width="241dp"
+            android:layout_height="94dp"
+            android:layout_below="@+id/btndrqsts"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/ic_baseline_fullscreen_24"
+            android:gravity="center"
+            android:onClick="qr"
+            android:text="Scan QR"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimary"
+            android:textSize="53sp" />
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_below="@id/btnqr"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_margin="4dp"
+            android:id="@+id/tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            tools:ignore="MissingConstraints" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            app:autoPlay="false"
+            app:showFullScreenButton="false"
+            app:videoId="I08i3ztnJdE"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:layout_width="299dp"
+            android:layout_height="265dp"
+            android:layout_gravity="center"
+            android:src="@drawable/videodemo" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
