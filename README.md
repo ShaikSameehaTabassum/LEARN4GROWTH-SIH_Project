@@ -1,3 +1,11 @@
 # SIH_Project
-In this project, we have developed a project for the students who are writing the competitive exams.They can just scan the QR code of our book and can easily get the overall video for that particular solution.If they are not able to understand that video which has been provided to them,then they can be able to click on not understood button which will then directly navigate to the second video in which we have a better understanding video.If they click on the understand button it will be navigating to the mcq type of similar questions for the better understanding.In this app,they have been provided with the notes options for each and every indivuduals which will be helping and benefitting the students.
+Presenting our Android app designed exclusively for students gearing up for competitive exams! This app simplifies the preparation process by allowing users to effortlessly scan QR codes associated with specific questions and receive tailored answers. Tailored to meet the unique needs of exam takers, our app streamlines the study experience, providing a quick and efficient way to access relevant information.
+
+Key Features:
+
+Seamless QR code scanning for instant access to answers
+Customized content to cater to the requirements of competitive exam preparation
+User-friendly interface for a smooth and intuitive experience
+
+Say goodbye to the hassle of searching through extensive study materials. With our app, students can efficiently access the information they need, enhancing their preparation and boosting confidence. Elevate your competitive exam journey with our user-friendly and effective Android app – designed with students in mind.
 
