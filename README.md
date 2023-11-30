@@ -60,6 +60,10 @@ Unlock a dynamic learning experience on our Android app! 🔍 Searching for a qu
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/c04f1916-aaff-4611-a613-104c4888f19a)
 
+# 📱 Interactive Learning Experience: Real-time Feedback
+
+Experience a two-way learning journey with our Android app! 🔍 After accessing a solution, the app seeks your understanding. 🤔 Provide instant feedback on whether the question is understood. If clarity is needed, explore the option to delve deeper with additional explanations. 🚀 Tailor your learning experience, ensuring comprehension and mastery of every concept. 🌟 Elevate your study routine with a feedback loop that prioritizes your understanding. 
+
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/6beb0d6c-3eb6-4365-aac1-a5cf9b4f453c)
 
 
