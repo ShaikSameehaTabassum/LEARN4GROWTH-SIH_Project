@@ -48,6 +48,10 @@ Engage in interactive learning with our Android app's latest feature — Multipl
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/301ae040-8cf6-49da-bb17-2b0b494adcf9)
 
+# 📱 User Page: Answer Search & Feedback
+
+Navigate the answer search seamlessly on our Android app's user page! 🌐 Utilize the scan QR functionality for quick and accurate answers. 💡 The user page is designed for convenience, featuring a power button for easy exit. ✨ Additionally, share your valuable feedback directly from the user page, contributing to the continuous enhancement of our app. 🚀 Elevate your study experience with intuitive features that prioritize user satisfaction and efficiency. 🌟
+
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/bd978f67-abf3-4a5f-95c5-4c4916fb3388)
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/c04f1916-aaff-4611-a613-104c4888f19a)
