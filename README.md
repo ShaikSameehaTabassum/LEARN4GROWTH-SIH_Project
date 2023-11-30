@@ -11,6 +11,10 @@ User-friendly interface for a smooth and intuitive experience.
 
 Say goodbye to the hassle of searching through extensive study materials. With our app, students can efficiently access the information they need, enhancing their preparation and boosting confidence. Elevate your competitive exam journey with our user-friendly and effective Android app – designed with students in mind.
 
+# 📱 App Snapshot: First Page
+
+Welcome to the gateway of exam success! 🚀 The first page of our Android application captures the essence of focused study. 📚✨ Immerse yourself in a visual journey as a student, depicted holding a book, symbolizing the commitment to academic excellence. The clean and intuitive interface provides easy navigation, offering a seamless entry into a world of effective exam preparation. Dive into your studies with confidence, guided by a user-friendly app that understands the student experience. 
+
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/8c38a4a2-e1e6-405e-a630-f872a0a82916)
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/5510c8d8-906c-4710-b792-39a7e8fce430)
