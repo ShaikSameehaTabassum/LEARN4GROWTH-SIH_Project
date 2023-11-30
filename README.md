@@ -29,6 +29,10 @@ Embark on your exam prep journey with a personalized touch! 🌟✨ When clickin
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/af78830d-b57f-4bfe-b554-e7a8b52a6281)
 
+# 📱 App Features: Beyond Exam Prep
+
+Explore a comprehensive suite of features on our Android app! 🌐 From creating custom QR codes to viewing problems, accessing feedback, practicing with mock questions, and a convenient log-out option — our app is designed to cater to every facet of your exam preparation journey. 🚀 Elevate your study routine with diverse functionalities that empower you to tailor your experience. Whether it's creating QR codes for specific questions or engaging with mock exams, our app ensures a holistic approach to exam preparation. 
+
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/41ad1429-e699-4989-9559-9dbeb7ee3267)
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/03561955-e5b6-468d-8f62-96d69956bf83)
