@@ -54,6 +54,10 @@ Navigate the answer search seamlessly on our Android app's user page! 🌐 Utili
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/bd978f67-abf3-4a5f-95c5-4c4916fb3388)
 
+# 📱 Answer Search & MCQ Tests: Interactive Learning
+
+Unlock a dynamic learning experience on our Android app! 🔍 Searching for a question not only reveals instant answers but also opens the door to an immersive MCQ test tailored to that particular question. 📝 Test and deepen your understanding right away, combining theory with practical application. 🚀 Elevate your exam preparation with a seamless integration of knowledge search and interactive assessments. 🌟
+
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/c04f1916-aaff-4611-a613-104c4888f19a)
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/6beb0d6c-3eb6-4365-aac1-a5cf9b4f453c)
