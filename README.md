@@ -17,9 +17,15 @@ Welcome to the gateway of exam success! 🚀 The first page of our Android appli
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/8c38a4a2-e1e6-405e-a630-f872a0a82916)
 
+# 📱 App Snapshot: User Login
+
 The journey continues! 🌐 Users are seamlessly guided into a personalized experience. 📧🔐 Effortlessly enter the realm of tailored exam preparation by providing your email and password. Not yet registered? Fear not! The app intuitively prompts new users to complete a straightforward registration process. Elevate your study routine with secure access and a user-friendly onboarding experience.
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/5510c8d8-906c-4710-b792-39a7e8fce430)
+
+# 📱 App Snapshot: User Registration
+
+Embark on your exam prep journey with a personalized touch! 🌟✨ When clicking on 'Register' as a new user, our Android app takes you through a seamless onboarding process. 📝 Provide your name, email, password, and mobile number to unlock a world of tailored exam preparation. Elevate your study experience with a user-friendly registration that prioritizes your information security and convenience. 🚀 Welcome aboard to a smarter way to prepare! 
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/af78830d-b57f-4bfe-b554-e7a8b52a6281)
 
