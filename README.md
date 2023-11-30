@@ -35,6 +35,11 @@ Explore a comprehensive suite of features on our Android app! 🌐 From creating
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/41ad1429-e699-4989-9559-9dbeb7ee3267)
 
+
+# 📱 App Features: Tailored Learning Experience
+
+Dive into a personalized learning journey with our Android app! 🚀 Explore versatile options, including problem number search, entering new problems, providing solutions, and attaching URLs for comprehensive learning. Tailor your study session by effortlessly navigating through problems, contributing solutions, and accessing external resources. 🌐 Elevate your exam preparation with a feature-rich app designed to adapt to your unique learning needs.
+
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/03561955-e5b6-468d-8f62-96d69956bf83)
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/301ae040-8cf6-49da-bb17-2b0b494adcf9)
