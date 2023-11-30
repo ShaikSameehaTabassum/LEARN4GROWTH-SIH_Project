@@ -42,6 +42,10 @@ Dive into a personalized learning journey with our Android app! 🚀 Explore ver
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/03561955-e5b6-468d-8f62-96d69956bf83)
 
+# 📱 App Features: MCQ Integration
+
+Engage in interactive learning with our Android app's latest feature — Multiple Choice Questions (MCQs)! 🤔📝 Easily input questions and provide four options, fostering an immersive and dynamic learning experience. 🚀 Test your knowledge, enter your answers, and enhance your exam readiness with this comprehensive addition. Whether you're creating MCQs or challenging yourself with diverse questions, our app transforms exam preparation into an interactive journey. 🌟
+
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/301ae040-8cf6-49da-bb17-2b0b494adcf9)
 
 ![image](https://github.com/ShaikSameehaTabassum/LEARN4GROWTH-SIH_Project/assets/83460032/bd978f67-abf3-4a5f-95c5-4c4916fb3388)
