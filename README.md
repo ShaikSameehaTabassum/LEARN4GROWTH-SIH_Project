@@ -3,11 +3,11 @@ Presenting our Android app designed exclusively for students gearing up for comp
 
 Key Features:
 
-Seamless QR code scanning for instant access to answers.
+1.Seamless QR code scanning for instant access to answers.
 
-Customized content to cater to the requirements of competitive exam preparation.
+2.Customized content to cater to the requirements of competitive exam preparation.
 
-User-friendly interface for a smooth and intuitive experience.
+3.User-friendly interface for a smooth and intuitive experience.
 
 Say goodbye to the hassle of searching through extensive study materials. With our app, students can efficiently access the information they need, enhancing their preparation and boosting confidence. Elevate your competitive exam journey with our user-friendly and effective Android app – designed with students in mind.
 
